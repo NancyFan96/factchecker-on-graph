@@ -1,0 +1,31 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p21" , "p31" , "mid31" , "p32" , "p41" , "mid41" , "p42" , "mid42" , "p43" , "p51" , "mid51" , "p52" , "mid52" , "p53" , "mid53" , "p54" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Third_(Big_Star_album)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Greenwich_Village" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Folk_rock" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Big_Star" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Third_(Big_Star_album)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Milwaukee" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Al_Jarreau" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/1978_in_music" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p21" , "p31" , "mid31" , "p32" , "p41" , "mid41" , "p42" , "mid42" , "p43" , "p51" , "mid51" , "p52" , "mid52" , "p53" , "mid53" , "p54" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Somalia" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Cinnamon" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Djibouti" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Cinnamon" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Somalia" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Confectionery" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Somalia" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Confectionery" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" } ,
+        "mid53": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5200157" } ,
+        "p54": { "type": "uri" , "value": "http://www.wikidata.org/entity/P366c" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglicanism" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Wine" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/property/denomination" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglicanism" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Wine" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Egypt" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Desert" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#differentFrom" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Algeria" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Desert" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#differentFrom" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/country" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Egypt" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Desert" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#differentFrom" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/property/cathedral" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Egypt" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Desert" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#differentFrom" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Tunisia" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Desert" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#differentFrom" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Algeria" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Catalonia" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Somalia" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Sugar" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Djibouti" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Sugar" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Somalia" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Halva" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Djibouti" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Halva" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Djibouti" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Indian_cuisine" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Anglican_Diocese_of_Egypt" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182940" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Eritrea" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Tomato" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Dessert" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      }
+    ]
+  }
+}

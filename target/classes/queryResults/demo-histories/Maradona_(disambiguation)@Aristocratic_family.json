@@ -1,0 +1,229 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p21" , "p31" , "mid31" , "p32" , "p41" , "mid41" , "p42" , "mid42" , "p43" , "p51" , "mid51" , "p52" , "mid52" , "p53" , "mid53" , "p54" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Esteban_Laureano_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Esteban_Laureano_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Esteban_Laureano_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Esteban_Laureano_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Esteban_Laureano_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Esteban_Laureano_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Hugo_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona,_the_Hand_of_God" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_by_Kusturica" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/New_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Hugo_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona,_the_Hand_of_God" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_by_Kusturica" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/New_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Estadio_Diego_Armando_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Estadio_Diego_Armando_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona,_the_Hand_of_God" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/country" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona,_the_Hand_of_God" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/country" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Estadio_Diego_Armando_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/location" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Aristocratic_family" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Estadio_Diego_Armando_Maradona" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/location" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Argentina" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Manuel_Mujica_Láinez" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      }
+    ]
+  }
+}

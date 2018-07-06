@@ -1,0 +1,849 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p21" , "p31" , "mid31" , "p32" , "p41" , "mid41" , "p42" , "mid42" , "p43" , "p51" , "mid51" , "p52" , "mid52" , "p53" , "mid53" , "p54" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/nationality" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/nationality" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/nationality" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/nationality" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/nationality" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/nationality" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Charles_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_1st_Baron_Cowley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_1st_Baron_Cowley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_1st_Baron_Cowley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_1st_Baron_Cowley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley,_Massachusetts" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Boston_Celtics" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#differentFrom" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Gaels" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley,_Massachusetts" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Boston_Celtics" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#differentFrom" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Gaels" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley,_Massachusetts" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Boston_Celtics" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#differentFrom" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Gaels" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley,_Massachusetts" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Boston_Celtics" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#differentFrom" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Gaels" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Great_Britain" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Great_Britain" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Great_Britain" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Great_Britain" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/nationality" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/nationality" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/successor" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/successor" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/successor" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/successor" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/property/after" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/property/after" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/property/after" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/property/after" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Church_of_Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Church_of_Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Church_of_Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Church_of_Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/religion" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Church_of_Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/religion" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Church_of_Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/religion" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Church_of_Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/religion" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Church_of_Ireland" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Edward_Pakenham" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Edward_Pakenham" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Edward_Pakenham" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Ireland" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Edward_Pakenham" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Ireland" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      }
+    ]
+  }
+}

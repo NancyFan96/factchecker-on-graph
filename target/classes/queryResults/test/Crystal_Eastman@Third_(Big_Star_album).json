@@ -1,0 +1,405 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p21" , "p31" , "mid31" , "p32" , "p41" , "mid41" , "p42" , "mid42" , "p43" , "p51" , "mid51" , "p52" , "mid52" , "p53" , "mid53" , "p54" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_Cromwell" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/William_Seymour,_2nd_Duke_of_Somerset" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Winston_Churchill" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/National_Women's_Hall_of_Fame" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Mary_Dyer" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/William_Seymour,_2nd_Duke_of_Somerset" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/BBC" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Long_Parliament" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Francis_Seymour,_1st_Baron_Seymour_of_Trowbridge" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Parliament_of_the_United_Kingdom" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/London" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Parliament_of_the_United_Kingdom" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/BBC" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Parliament_of_the_United_Kingdom" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/London" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Leicester_Square" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Thomas_Bruce,_2nd_Earl_of_Ailesbury" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/City_of_London" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/London" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/City_of_London" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Suffrage" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/City_of_London" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/BBC" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Suffrage" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Representation_of_the_People_Act_1884" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/London" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/property/parts" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/City_of_London" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/London" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/property/seat" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/City_of_London" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Suffrage" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Reform_Act_1867" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Dudley" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Earl_of_Dudley" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Ripon" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Salford,_Greater_Manchester" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/BBC" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Salford,_Greater_Manchester" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Scottish_Westminster_constituencies" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough,_Massachusetts" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Wiltshire" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Wiltshire_(UK_Parliament_constituency)" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough,_Massachusetts" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Wiltshire" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Wiltshire_(UK_Parliament_constituency)" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Radio_Times" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Yorkshire" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Yorkshire" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Wolverhampton" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Redistribution_of_Seats_Act_1885" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/List_of_Stewards_of_the_Chiltern_Hundreds" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/BBC" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/List_of_Stewards_of_the_Chiltern_Hundreds" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Long_Parliament" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/List_of_MPs_in_the_English_parliament_in_1645_and_after" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Long_Parliament" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/List_of_MPs_elected_to_the_English_parliament_in_1640_(November)" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Richard_III_of_England" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Thomas_Vaughan_(died_1483)" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/BBC" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Chancellor_of_the_Exchequer" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/John_Ernle" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Crystal_Eastman" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Marlborough_(UK_Parliament_constituency)" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/England" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Winston_Churchill" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/property/title" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      }
+    ]
+  }
+}

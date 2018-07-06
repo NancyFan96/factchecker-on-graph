@@ -1,0 +1,1369 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p21" , "p31" , "mid31" , "p32" , "p41" , "mid41" , "p42" , "mid42" , "p43" , "p51" , "mid51" , "p52" , "mid52" , "p53" , "mid53" , "p54" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p31": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid31": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p32": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p31": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid31": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p32": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p31": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid31": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p32": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p31": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid31": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p32": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p31": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid31": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p32": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p31": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid31": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p32": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Censorius_Datianus" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Censorius_Datianus" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantine_the_Great" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantine_the_Great" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Perugia" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Marcus_Aurelius" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Simplicius,_Constantius_and_Victorinus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Marcus_Aurelius" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Perugia" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Marcus_Aurelius" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Simplicius,_Constantius_and_Victorinus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Marcus_Aurelius" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_(Theban_Legion)" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_(Theban_Legion)" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_(Theban_Legion)" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_(Theban_Legion)" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Semi-Arianism" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Semi-Arianism" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Sremska_Mitrovica" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Sremska_Mitrovica" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Gratian" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Gratian" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Gratian" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Gratian" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/property/regent" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/property/regent" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Maximian" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Maximian" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Maximian" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Maximian" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Neratius_Cerealis" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Neratius_Cerealis" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Illyricum_(Roman_province)" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Illyricum_(Roman_province)" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Western_Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Western_Roman_Empire" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Flavia_Maxima_Constantia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Flavia_Maxima_Constantia" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantine_the_Great" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantine_the_Great" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantine_the_Great" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantine_the_Great" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Capri" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Pannonia_Inferior" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Aquino" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint_Peter" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/property/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Aquino" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint_Peter" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/property/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Simplicius,_Constantius_and_Victorinus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint_Peter" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/property/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Simplicius,_Constantius_and_Victorinus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint_Peter" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/property/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Aquino" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint_Peter" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/property/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Simplicius,_Constantius_and_Victorinus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint_Peter" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/property/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_of_Aquino" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint_Peter" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/property/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Simplicius,_Constantius_and_Victorinus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint_Peter" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/property/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Empire" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/capital" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Niš" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Niš" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Niš" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_III" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Niš" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Sremska_Mitrovica" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Sremska_Mitrovica" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_Gallus" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Itineraries_of_the_Roman_emperors,_337\u2013361" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Gratian" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Gratian" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Vetranio" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Sirmium" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Constantius_II" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Vetranio" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Serbia" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      }
+    ]
+  }
+}

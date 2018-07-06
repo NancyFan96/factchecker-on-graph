@@ -1,0 +1,31 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p21" , "p31" , "mid31" , "p32" , "p41" , "mid41" , "p42" , "mid42" , "p43" , "p51" , "mid51" , "p52" , "mid52" , "p53" , "mid53" , "p54" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/1960" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7999" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/April_10" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Jacek_Kaczmarski" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Lluís_Llach" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/1960" } ,
+        "end": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7999" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Chile" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Nueva_canción" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Lluís_Llach" } ,
+        "p54": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" }
+      }
+    ]
+  }
+}

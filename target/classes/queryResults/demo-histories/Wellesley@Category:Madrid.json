@@ -1,0 +1,177 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p21" , "p31" , "mid31" , "p32" , "p41" , "mid41" , "p42" , "mid42" , "p43" , "p51" , "mid51" , "p52" , "mid52" , "p53" , "mid53" , "p54" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p43": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p41": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid41": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p42": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid42": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p43": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_3rd_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Alfonso_XII_of_Spain" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_3rd_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Alfonso_XII_of_Spain" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p53": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#seeAlso" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_3rd_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Alfonso_XII_of_Spain" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_3rd_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Alfonso_XII_of_Spain" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/deathPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_3rd_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Alfonso_XII_of_Spain" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_3rd_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Alfonso_XII_of_Spain" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_3rd_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Alfonso_XII_of_Spain" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Category:Madrid" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Henry_Wellesley,_3rd_Duke_of_Wellington" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Alfonso_XII_of_Spain" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/birthPlace" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/dc/terms/subject" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p21" , "p31" , "mid31" , "p32" , "p41" , "mid41" , "p42" , "mid42" , "p43" , "p51" , "mid51" , "p52" , "mid52" , "p53" , "mid53" , "p54" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/He_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Undertaking" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Heathrow_Express" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Heathrow_Airport" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Cranford_Agreement" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/linguistics/gold/hypernym" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/He_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Undertaking" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Heathrow_Express" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Heathrow_Airport" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Cranford_Agreement" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/linguistics/gold/hypernym" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/He_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Undertaking" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Hebrew_language" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Academy_of_the_Hebrew_Language" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Historical_Dictionary_Project_of_the_Hebrew_Language" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/linguistics/gold/hypernym" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/He_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Undertaking" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Hebrew_language" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Academy_of_the_Hebrew_Language" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Historical_Dictionary_Project_of_the_Hebrew_Language" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/linguistics/gold/hypernym" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/He_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Undertaking" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Hebrew_language" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/languageRegulator" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Academy_of_the_Hebrew_Language" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Historical_Dictionary_Project_of_the_Hebrew_Language" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/linguistics/gold/hypernym" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/He_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Undertaking" } ,
+        "p51": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid51": { "type": "uri" , "value": "http://dbpedia.org/resource/Hebrew_language" } ,
+        "p52": { "type": "uri" , "value": "http://dbpedia.org/ontology/languageRegulator" } ,
+        "mid52": { "type": "uri" , "value": "http://dbpedia.org/resource/Academy_of_the_Hebrew_Language" } ,
+        "p53": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid53": { "type": "uri" , "value": "http://dbpedia.org/resource/Historical_Dictionary_Project_of_the_Hebrew_Language" } ,
+        "p54": { "type": "uri" , "value": "http://purl.org/linguistics/gold/hypernym" }
+      }
+    ]
+  }
+}

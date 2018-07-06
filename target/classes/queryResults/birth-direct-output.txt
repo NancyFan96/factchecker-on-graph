@@ -1,0 +1,110 @@
+Wellesley was born in Dublin, into the Protestant Ascendancy in Ireland.
+1.0,Wellesley,be bear into,Protestant Ascendancy in Ireland
+[warning] cannot find entity
+1.0,Wellesley,be,bear
+1.0,Wellesley,be,bear in Dublin into Protestant Ascendancy
+[warning] cannot find entity
+1.0,Wellesley,be bear into,Protestant Ascendancy
+<http://dbpedia.org/resource/Wellesley> <http://dbpedia.org/resource/Protestant_Ascendancy>
+1.0,Wellesley,be,bear in Dublin into Protestant Ascendancy in Ireland
+[warning] cannot find entity
+1.0,Wellesley,be bear in,Dublin
+<http://dbpedia.org/resource/Wellesley> <http://www.wikidata.org/entity/Q1761>
+1.0,Protestant Ascendancy,be in,Ireland
+<http://dbpedia.org/resource/Protestant_Ascendancy> <http://dbpedia.org/resource/Category:Ireland>
+3.0/7
+
+Wellesley was born into an aristocratic Anglo-Irish family in Ireland as The Hon.
+1.0,Wellesley,be,bear in Ireland as Hon.
+[warning] cannot find entity
+1.0,Wellesley,be,bear into family in Ireland
+[warning] cannot find entity
+1.0,Wellesley,be,bear into family in Ireland as Hon.
+[warning] cannot find entity
+1.0,Wellesley,be,bear into aristocratic family in Ireland
+[warning] cannot find entity
+1.0,Wellesley,be bear into,aristocratic family
+<http://dbpedia.org/resource/Wellesley> <http://dbpedia.org/resource/Aristocratic_family>
+1.0,Wellesley,be bear into,aristocratic anglo-irish family
+[warning] cannot find entity
+1.0,Wellesley,be bear as,Hon.
+<http://dbpedia.org/resource/Wellesley> <http://www.wikidata.org/entity/Q32303>
+1.0,Wellesley,be,bear into family as Hon.
+[warning] cannot find entity
+1.0,Wellesley,be,bear into anglo-irish family in Ireland
+[warning] cannot find entity
+1.0,Wellesley,be bear into,family
+<http://dbpedia.org/resource/Wellesley> <http://www.wikidata.org/entity/Q8436>
+1.0,Wellesley,be,bear into aristocratic family in Ireland as Hon.
+[warning] cannot find entity
+1.0,Wellesley,be,bear
+<http://dbpedia.org/resource/Wellesley> <http://dbpedia.org/resource/Brad_Scott_(fighter)>
+1.0,Wellesley,be bear into,anglo-irish family
+[warning] cannot find entity
+1.0,Wellesley,be,bear into anglo-irish family as Hon.
+[warning] cannot find entity
+1.0,Wellesley,be,bear into aristocratic family as Hon.
+[warning] cannot find entity
+1.0,Wellesley,be,bear into aristocratic anglo-irish family as Hon.
+[warning] cannot find entity
+1.0,Wellesley,be,bear into aristocratic anglo-irish family in Ireland
+[warning] cannot find entity
+1.0,Wellesley,be,bear into aristocratic anglo-irish family in Ireland as Hon.
+[warning] cannot find entity
+1.0,Wellesley,be bear in,Ireland
+<http://dbpedia.org/resource/Wellesley> <http://dbpedia.org/resource/Category:Ireland>
+1.0,Wellesley,be,bear into anglo-irish family in Ireland as Hon.
+[warning] cannot find entity
+3.0/20
+
+He was born in Ireland and so had some understanding of the grievances of the Catholic communities there; as Chief Secretary, he had given an undertaking that the remaining Penal Laws would only be enforced as "mildly" as possible.
+1.0,he,have,understanding of grievance of Catholic community
+[warning] cannot find entity
+1.0,he,so have,understanding
+<http://www.wikidata.org/entity/Q15926381> <http://www.wikidata.org/entity/Q46744>
+1.0,remain Penal Laws,only be enforce as,mildly
+[warning] cannot find entity
+1.0,he,so have,understanding of grievance
+[warning] cannot find entity
+1.0,he,have,understanding of grievance
+[warning] cannot find entity
+1.0,he,have give undertaking as,Chief Secretary
+<http://www.wikidata.org/entity/Q15926381> <http://dbpedia.org/resource/Chief_Secretary>
+1.0,remain Penal Laws,be,only enforce
+[warning] cannot find entity
+[warning] cannot find entity
+1.0,he,have there,understanding of grievance
+[warning] cannot find entity
+1.0,Penal Laws,be,enforce
+<http://dbpedia.org/resource/Penal_laws> <http://dbpedia.org/resource/Enforce>
+1.0,Penal Laws,only be enforce as,mildly
+<http://dbpedia.org/resource/Penal_laws> <#WN30-400033562>
+1.0,he,so have there,understanding
+<http://www.wikidata.org/entity/Q15926381> <http://www.wikidata.org/entity/Q46744>
+1.0,he,have there,understanding
+<http://www.wikidata.org/entity/Q15926381> <http://www.wikidata.org/entity/Q46744>
+1.0,Penal Laws,be,only enforce
+[warning] cannot find entity
+1.0,Penal Laws,be enforce as,mildly
+<http://dbpedia.org/resource/Penal_laws> <#WN30-400033562>
+1.0,he,so have,understanding of grievance of Catholic community
+[warning] cannot find entity
+1.0,he,have there,understanding of grievance of Catholic community
+[warning] cannot find entity
+1.0,he,have give,undertaking
+<http://www.wikidata.org/entity/Q15926381> <http://dbpedia.org/resource/Undertaking>
+1.0,he,so have there,understanding of grievance of Catholic community
+[warning] cannot find entity
+1.0,he,so have there,understanding of grievance
+[warning] cannot find entity
+1.0,remain Penal Laws,be,enforce
+[warning] cannot find entity
+1.0,remain Penal Laws,be enforce as,mildly
+[warning] cannot find entity
+1.0,he,have,understanding
+<http://www.wikidata.org/entity/Q15926381> <http://www.wikidata.org/entity/Q46744>
+0.0/22
+
+Disconnected from the target VM, address: '127.0.0.1:54215', transport: 'socket'
+
+Process finished with exit code 0

@@ -1,0 +1,97 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p61" , "mid61" , "p62" , "mid62" , "p63" , "mid63" , "p64" , "mid64" , "p65" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid_(disambiguation)" } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid_(disambiguation)" } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid_(disambiguation)" } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageRedirects" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid_(disambiguation)" } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageRedirects" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid_(disambiguation)" } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid_(disambiguation)" } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid_(disambiguation)" } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageRedirects" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid_(disambiguation)" } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageRedirects" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Madrid" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      }
+    ]
+  }
+}

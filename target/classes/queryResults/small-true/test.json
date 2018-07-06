@@ -1,0 +1,15 @@
+{
+  "head": {
+    "vars": [ "label" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Link from a Wikipage to another Wikipage" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Link from a Wikipage to another Wikipage" }
+      }
+    ]
+  }
+}

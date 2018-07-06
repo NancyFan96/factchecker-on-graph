@@ -1,0 +1,31 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p61" , "mid61" , "p62" , "mid62" , "p63" , "mid63" , "p64" , "mid64" , "p65" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Hon." } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Diego_Maradona" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Elizabeth_II" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Maradona_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Hon." } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Diego_Maradona" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Elizabeth_II" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      }
+    ]
+  }
+}

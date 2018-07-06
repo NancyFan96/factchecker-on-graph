@@ -1,0 +1,61 @@
+{
+  "head": {
+    "vars": [ "begin" , "end" , "p61" , "mid61" , "p62" , "mid62" , "p63" , "mid63" , "p64" , "mid64" , "p65" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Hon." } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Gerald_Wellesley,_7th_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Violet_Trefusis" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid64": { "type": "uri" , "value": "http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" } ,
+        "p65": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Hon." } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageRedirects" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Gerald_Wellesley,_7th_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Violet_Trefusis" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid64": { "type": "uri" , "value": "http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" } ,
+        "p65": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Hon." } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Gerald_Wellesley,_7th_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Violet_Trefusis" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid64": { "type": "uri" , "value": "http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" } ,
+        "p65": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      } ,
+      {
+        "begin": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley_(disambiguation)" } ,
+        "end": { "type": "uri" , "value": "http://dbpedia.org/resource/Hon." } ,
+        "p61": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageRedirects" } ,
+        "mid61": { "type": "uri" , "value": "http://dbpedia.org/resource/Wellesley" } ,
+        "p62": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageDisambiguates" } ,
+        "mid62": { "type": "uri" , "value": "http://dbpedia.org/resource/Gerald_Wellesley,_7th_Duke_of_Wellington" } ,
+        "p63": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid63": { "type": "uri" , "value": "http://dbpedia.org/resource/Violet_Trefusis" } ,
+        "p64": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" } ,
+        "mid64": { "type": "uri" , "value": "http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" } ,
+        "p65": { "type": "uri" , "value": "http://dbpedia.org/ontology/wikiPageWikiLink" }
+      }
+    ]
+  }
+}
