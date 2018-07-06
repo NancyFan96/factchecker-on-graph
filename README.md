@@ -13,4 +13,4 @@ We proposed a novel fact checking system on graph database. The specific contrib
 
 3. Our system has a good performance of on the Wikipedia test case.
 
-KEYWORDS: Fact checking, Graph database, Knowledge graph, NLP, Path finding II
+KEYWORDS: Fact checking, Graph database, Knowledge graph, NLP, Path finding
